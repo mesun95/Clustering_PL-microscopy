@@ -700,4 +700,5 @@ def plot_cluster_sam(sam_values, cluster_sizes=None, figsize=(7,5), fontsize=12,
             dpi=300,
             transparent=True
         )
+
     plt.show()
